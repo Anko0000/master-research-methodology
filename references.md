@@ -17,8 +17,8 @@
   - https://www.sciencedirect.com/science/article/abs/pii/S016794731500047X
 
 -　**うつの分類**
-　- うつの分類
-　- https://www.nature.com/articles/s41598-018-32521-z
+ - うつの分類
+ - https://www.nature.com/articles/s41598-018-32521-z
 
 - **The Smartphone Addiction Scale: Psychometric Properties, Invariance, Network Perspective, and Latent Profile Analysis Among a Sample of Chinese University Students**
  - ttps://www.researchgate.net/publication/361425769_The_Smartphone_Addiction_Scale_Psychometric_Properties_Invariance_Network_Perspective_and_Latent_Profile_Analysis_Among_a_Sample_of_Chinese_University_Students
