@@ -19,10 +19,12 @@
 
 ### 概要
 - 実施形式：オンラインアンケート
+- 調査プラットフォーム：lancers（https://www.lancers.jp/?srsltid=AfmBOooWraXTyDla7rJCrzMxqp0E6i_9LRQX46zdnhVOR4dzHspw7OtG）
 - 有効回答数：約100名
 
 ### 調査対象
 - 人口動態統計表を参考に、年代および性別の構成を考慮して募集
+- 人口動態統計表：人口統計資料集(2024)2022年（https://www.ipss.go.jp/syoushika/tohkei/Popular/P_Detail2024.asp?fname=T02-02.htm）
 - 外部プラットフォームを通じて回答者を募集
 
 ### 質問設計
