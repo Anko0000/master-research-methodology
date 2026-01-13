@@ -12,6 +12,7 @@
 - 調査手法：アンケート調査
 - 実施形式：オンライン
 - 調査構成：予備実験（Pilot Study）および本実験（Main Study）
+- 参考ページ：https://labjs.thesimple.ink/
 
 ---
 
